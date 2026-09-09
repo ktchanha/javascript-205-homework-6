@@ -9,9 +9,9 @@
 ### Checklist
 
 * [ ] `exercise_1.js` … `exercise_6.js` are all present in my folder
-* [ ] Every file runs with `node` without errors
+* [ ] Every file runs with `node` without errors and prints the expected output
 * [ ] Every function is written as `function name(...) { ... }` — no arrow functions
-* [ ] I used only concepts covered in Workshops 1–6 (no `prompt()`)
+* [ ] No `map` / `filter` / `reduce` / `forEach`, no default parameters, no `prompt()`
 * [ ] `exercise_3.js`: my answer to the question is in a comment
 * [ ] I did not change any files outside my own folder
 
